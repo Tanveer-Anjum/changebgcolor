@@ -1,0 +1,50 @@
+*{
+  padding:0px;
+  margin:0px;
+  background-color: rgba(172, 255, 47, 0.64);
+}
+
+.nav {
+  display: flex;
+  /* background-color: greenyellow; */
+  height: 100vh;
+  width: 100%;
+  justify-content: center;
+  
+}
+.btn {
+  background-color: black;
+  height: 36px;
+  width: 8%;
+  display: flex;
+  margin: 32px 28px;
+  border-radius: 15px;
+  border-style: groove;
+  border: -2px solid green;
+  color: aliceblue;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+
+}
+.heading{
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  height: 60px;
+}
+#btn1{
+  background-color:blue;
+}
+#btn2{
+background-color: green;
+}
+#btn3{
+  background-color:red;
+  }
+  #btn4{
+    background-color: purple;
+    }
+    #btn5{
+      background-color: rgba(255, 255, 0, 0.742);
+    }
